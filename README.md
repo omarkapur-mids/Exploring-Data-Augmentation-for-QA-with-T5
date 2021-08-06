@@ -1,4 +1,4 @@
-# Exploring Data Augmentation for QA with T5
+# Exploring Data Augmentation for Question and Answering (QA) with T5
 
 Contents:
 * **ExploringDataAugmentation.pdf** - Our paper describing the experiment process and results
